@@ -3,8 +3,6 @@
 {
     display: inline-block;
     content: "";
-    margin-right: 1rem;
-    /* icon einsetzen  */
     width: 2rem;
     height: 2rem;
     background-size: 2rem 2rem;
@@ -15,8 +13,6 @@
 {
     display: inline-block;
     content: "";
-    margin-right: 1rem;
-    /* icon einsetzen  */
     width: 2rem;
     height: 2rem;
     background-size: 2rem 2rem;
